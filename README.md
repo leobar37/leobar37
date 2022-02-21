@@ -31,8 +31,8 @@ const leobar37 = {
   technologies: {
     mobileApp: ["Ionic"],
     frontEnd: {
-      js: ["Angular", "React", "next js"],
-      css: ["bulma", "chakra", "bootstrap"],
+      js: ["Angular", "React", "next js","redux" ,"ngrx"],
+      css: ["bulma", "chakra", "bootstrap" , "Mui"],
     },
     backEnd: {
       js: ["node", "express", "nest js", "graphql", "TypeGraphql", "TypeOrm"],
