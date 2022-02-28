@@ -1,4 +1,4 @@
-<h2 align="center" >(Namaste)🙏🏻, I'm León Barboza Elmer Joselito ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2 align="center" >(Namaste)🙏🏻, I'm León Elmer (loebar)! <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"></h2>
 <br/>
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
@@ -23,6 +23,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/leobar37?label=Follow&style=social)
 
+## 🚀 About Me
+
+I'm a frontend Developer, passionate about fronted technologies and learn them in depth.
+
+👩‍💻 I'm currently working on [DinamycDevs](https://www.dynamicdevs.io/)
+
 ```javascript
 const leobar37 = {
   pronouns: "He" | "Him",
@@ -31,8 +37,8 @@ const leobar37 = {
   technologies: {
     mobileApp: ["Ionic"],
     frontEnd: {
-      js: ["Angular", "React", "next js","redux" ,"ngrx"],
-      css: ["bulma", "chakra", "bootstrap" , "Mui"],
+      js: ["Angular", "React", "next js", "redux", "ngrx"],
+      css: ["bulma", "chakra", "bootstrap", "Mui"],
     },
     backEnd: {
       js: ["node", "express", "nest js", "graphql", "TypeGraphql", "TypeOrm"],
