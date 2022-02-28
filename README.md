@@ -1,4 +1,4 @@
-<h2 align="center" >(Namaste)🙏🏻, I'm León Elmer (loebar)! <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"></h2>
+<h2 align="center" >(Namaste)🙏🏻, I'm León Elmer (leobar)! <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"></h2>
 <br/>
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
@@ -17,9 +17,10 @@
   <a href="https://dev.to/leobar37" target="_blank">
     <img src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="Devto"/>
   </a>
+  <a href="https://videsolutions.me" target="_blank">
+    <img src="https://img.shields.io/badge/startup-%2312100E.svg?&style=for-the-badge&logo=apacherocketmq&logoColor=white&color=071A2C" alt="Website"/>
+  </a>
 </p>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ![GitHub followers](https://img.shields.io/github/followers/leobar37?label=Follow&style=social)
 
