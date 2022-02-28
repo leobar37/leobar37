@@ -1,9 +1,9 @@
-<h2 align="center" >(Namaste)🙏🏻, I'm León Elmer (leobar)! <img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"></h2>
+<h2 align="center" >(Namaste)🙏🏻, I'm Elmer León (leobar)! </h2>
 <br/>
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+<img src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" >
 </p>
-
+<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/elmer-joselito-leon-barboza-186729210/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/startup-%2312100E.svg?&style=for-the-badge&logo=apacherocketmq&logoColor=white&color=071A2C" alt="Website"/>
   </a>
 </p>
+
+<br/>
 
 ![GitHub followers](https://img.shields.io/github/followers/leobar37?label=Follow&style=social)
 
