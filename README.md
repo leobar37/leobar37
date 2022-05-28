@@ -30,7 +30,6 @@
 
 I'm a frontend Developer, passionate about fronted technologies and learn them in depth.
 
-👩‍💻 I'm currently working on [DinamycDevs](https://www.dynamicdevs.io/)
 
 ```javascript
 const leobar37 = {
