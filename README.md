@@ -56,3 +56,8 @@ const leobar37 = {
     "There are two ways to write error-free programs; only the third one works",
 };
 ```
+# Contact
+
+ [Email](mailto:leonbarbozaelmerjoselito@gmail.com) | Discord: leobar37#8812
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/554177902871314473)](https://discord.com/users/554177902871314473)
