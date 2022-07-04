@@ -28,14 +28,14 @@
 
 ## 🚀 About Me
 
-I'm a frontend Developer, passionate about fronted technologies and learn them in depth.
+I'm a Full Stack web Developer, focusing in learning every day, and discovering new things to stand out in the world of technology
 
 ## Things I Know
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,prisma,linux,bash,docker,figma"/>
-    <img src="https://skillicons.dev/icons?i=git,nextjs,nodejs,py,react,java,tailwind,vim,vscode"/>
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,ts,nestjs,express,graphql,angular,html,css,scss,prisma,linux,bash,nest,docker,figma"/>
+    <img src="https://skillicons.dev/icons?i=git,nextjs,nodejs,py,react,java,tailwind,vscode"/>
   </a>
 </p>
 
