@@ -30,7 +30,7 @@
 
 I'm a frontend Developer, passionate about fronted technologies and learn them in depth.
 
-# Things I Know
+## Things I Know
 
 <p align="center">
   <a href="https://skillicons.dev">
