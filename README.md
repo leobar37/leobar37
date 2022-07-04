@@ -30,6 +30,15 @@
 
 I'm a frontend Developer, passionate about fronted technologies and learn them in depth.
 
+# Things I Know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,,prisma,linux,bash,docker,figma"/>
+    <img src="https://skillicons.dev/icons?i=git,nextjs,nodejs,py,react,java,tailwind,vim,vscode"/>
+  </a>
+</p>
+
 
 ```javascript
 const leobar37 = {
